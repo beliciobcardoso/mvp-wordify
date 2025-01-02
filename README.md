@@ -62,9 +62,13 @@ Wordify é um SaaS MVP que permite a conversão de imagens contendo texto em tex
 - [x] Exportação para PDF.
 - [ ] Expansão para exportação direta de arquivos PDF.
 
+## Documentação
+
+A documentação completa do projeto pode ser encontrada em [docs/README.md](docs/README.md).
+
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais informações.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](docs/LICENSE.md) para mais informações.
 
 ## Contato
 
